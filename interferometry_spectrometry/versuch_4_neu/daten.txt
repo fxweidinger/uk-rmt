@@ -1,0 +1,7 @@
+gruen: 2.9V; 21mA
+blau_gruen:2.8V
+weiss:2.7V
+warm_weiss:2.7V
+amber:2.6V
+rot: 1.8V
+gluehlampe:4.8V 411mA

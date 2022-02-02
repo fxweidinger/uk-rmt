@@ -1,6 +1,6 @@
 clear all;
 %Signalauswertung Messreihen
-load('durchfuehrung/Versuch_4_12kmh_10ohm/Messung_4.fig','-mat')
+load('versuch_1/durchfuehrung/Versuch_4_12kmh_10ohm/Messung_4.fig','-mat')
 
 %Signal an der Felge
 Kind=extractfield(hgS_070000,'children');
